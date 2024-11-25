@@ -1,0 +1,6 @@
+The code was developed based on JetBrains PyCharm Community Edition 2019.2.3 x64, and the language is Python 3.8.1.
+
+Required libraries
+
+1.  numpy
+2.  random
